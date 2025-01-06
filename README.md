@@ -70,10 +70,12 @@ The training dataset contains >65,000 segmentation mask annotations of 19 differ
 
 ## Dataset Links
 
+Password: fishdetection
+
 | Dataset          | Raw Videos                                                                                        | Raw Images                                                                                         | Version | Num Annotations | Annotations (CSV/JSON)                                                                                     |
 |------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------|-----------------|--------------------------------------------------------------------------------------------------|
-| Training dataset | NA                                                                                               | [Download 555 MB](https://research-storage.griffith.edu.au/owncloud/index.php/s/9PMCoNEXVdJuXbH)                                                                              | 7       | 8,696           | [Download 19 MB](https://research-storage.griffith.edu.au/owncloud/index.php/s/9PMCoNEXVdJuXbH) |
-| Testing dataset | [Download 6.5 GB](https://research-storage.griffith.edu.au/owncloud/index.php/s/cnK1vOP6jPzt8PU) | NA | 1       | NA          | [Groundtruth](https://research-storage.griffith.edu.au/owncloud/index.php/s/cnK1vOP6jPzt8PU)|
+| Training dataset | NA                                                                                               | [Download 555 MB](https://research-storage.griffith.edu.au/owncloud/index.php/s/mRBSWVJ7ZeIyae2)                                                                              | 7       | 8,696           | [Download 19 MB](https://research-storage.griffith.edu.au/owncloud/index.php/s/mRBSWVJ7ZeIyae2) |
+| Testing dataset | [Download 6.5 GB](https://research-storage.griffith.edu.au/owncloud/index.php/s/tuFVUrjnHvbZHzX) | NA | 1       | NA          | [Groundtruth](https://research-storage.griffith.edu.au/owncloud/index.php/s/FFJQij5XNDWnIl5)|
 
 
 ## Annotations
